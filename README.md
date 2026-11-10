@@ -23,5 +23,7 @@ Technical Problem Solving
 ## Outcome
 Successfully restored monitor operation and verified proper display functionality.
 ## Screenshots
-Screenshot 1
+Screenshot 1<img width="1246" height="720" alt="Screenshot 2026-11-09 164326" src="https://github.com/user-attachments/assets/a49d4bde-2d33-4253-a065-e965eb9e6ab1" />
 Screenshot 2
+<img width="1101" height="732" alt="Screenshot 2026-11-09 164247" src="https://github.com/user-attachments/assets/c2799900-41e9-478a-a23c-bb050d2aa43b" />
+screenshot 3 <img width="1246" height="723" alt="Screenshot 2026-11-09 164345" src="https://github.com/user-attachments/assets/2231e7c2-d1b2-453c-9f45-453640edea55" />
